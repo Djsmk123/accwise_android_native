@@ -1,0 +1,55 @@
+[
+{
+  "directory": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Smk_winner/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\native-lib.cpp.o -c C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\native-lib.cpp",
+  "file": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/src/main/cpp/native-lib.cpp"
+},
+
+{
+  "directory": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Smk_winner/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\NativeModel.cpp.o -c C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\NativeModel.cpp",
+  "file": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/src/main/cpp/NativeModel.cpp"
+},
+
+{
+  "directory": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Smk_winner/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\calculations\\Calculations.cpp.o -c C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\calculations\\Calculations.cpp",
+  "file": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/src/main/cpp/calculations/Calculations.cpp"
+},
+
+{
+  "directory": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Smk_winner/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\calculations\\Classifier.cpp.o -c C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\calculations\\Classifier.cpp",
+  "file": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/src/main/cpp/calculations/Classifier.cpp"
+},
+
+{
+  "directory": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Smk_winner/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\datatypes\\SensorOutput.cpp.o -c C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\datatypes\\SensorOutput.cpp",
+  "file": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/src/main/cpp/datatypes/SensorOutput.cpp"
+},
+
+{
+  "directory": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Smk_winner/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\datatypes\\DataCarrier.cpp.o -c C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\datatypes\\DataCarrier.cpp",
+  "file": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/src/main/cpp/datatypes/DataCarrier.cpp"
+},
+
+{
+  "directory": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Smk_winner/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\calculations\\nn\\KerasSequentialModel.cpp.o -c C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\calculations\\nn\\KerasSequentialModel.cpp",
+  "file": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/src/main/cpp/calculations/nn/KerasSequentialModel.cpp"
+},
+
+{
+  "directory": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Smk_winner/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O3 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\calculations\\nn\\Parameters.cpp.o -c C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\calculations\\nn\\Parameters.cpp",
+  "file": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/src/main/cpp/calculations/nn/Parameters.cpp"
+},
+
+{
+  "directory": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Smk_winner/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O3 -DNDEBUG  -fPIC   -o CMakeFiles\\app-glue.dir\\C_\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\sources\\android\\native_app_glue\\android_native_app_glue.c.o   -c C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\sources\\android\\native_app_glue\\android_native_app_glue.c",
+  "file": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\sources\\android\\native_app_glue\\android_native_app_glue.c"
+}
+]

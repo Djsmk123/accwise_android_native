@@ -1,0 +1,5 @@
+motionapps.besafebox.test.mobile-androidTest-0 C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\build\generated\res\resValues\androidTest\debug
+motionapps.besafebox.test.mobile-androidTest-1 C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\build\generated\res\rs\androidTest\debug
+motionapps.besafebox.test.mobile-mergeDebugAndroidTestResources-2 C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+motionapps.besafebox.test.mobile-mergeDebugAndroidTestResources-3 C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+motionapps.besafebox.test.mobile-merged_res-4 C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\build\intermediates\merged_res\debugAndroidTest

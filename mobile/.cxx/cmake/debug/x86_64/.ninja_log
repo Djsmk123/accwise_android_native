@@ -1,0 +1,12 @@
+# ninja log v5
+85	5487	724785837	CMakeFiles/native-lib.dir/src/main/cpp/datatypes/SensorOutput.cpp.o	a90714b32f24c504
+53	5519	724785838	CMakeFiles/native-lib.dir/src/main/cpp/NativeModel.cpp.o	6b238e06fb71fade
+80	12015	724785838	CMakeFiles/native-lib.dir/src/main/cpp/calculations/Classifier.cpp.o	b8209c4a3b98b3fe
+64	16731	724785838	CMakeFiles/native-lib.dir/src/main/cpp/datatypes/DataCarrier.cpp.o	71c5092ed47dd573
+3	16741	724785838	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	708e9d171914ae09
+48	16828	724785838	CMakeFiles/native-lib.dir/src/main/cpp/calculations/Calculations.cpp.o	c825ccd12f0189a6
+5522	16858	724785841	CMakeFiles/app-glue.dir/C_/Users/Smk_winner/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o	4a7b652ba8f3d816
+12019	17147	724785849	CMakeFiles/native-lib.dir/src/main/cpp/calculations/nn/Parameters.cpp.o	29f0ca6927a3fe82
+16858	19529	724785853	libapp-glue.a	5f336c8b94a62ad6
+10	1634	724786340	CMakeFiles/native-lib.dir/src/main/cpp/calculations/nn/KerasSequentialModel.cpp.o	e562f42c24b1ebf8
+1634	3172	724786342	../../../../build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	58103d0d07ec852e

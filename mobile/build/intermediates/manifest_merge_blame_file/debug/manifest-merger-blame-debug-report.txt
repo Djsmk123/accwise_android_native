@@ -1,0 +1,361 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="motionapps.besafebox"
+4    android:versionCode="19"
+5    android:versionName="0.1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:6:5-66
+11-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:6:22-63
+12    <uses-permission android:name="android.permission.WAKE_LOCK" />
+12-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:7:5-68
+12-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:7:22-65
+13    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+13-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:8:5-95
+13-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:8:22-92
+14    <uses-permission android:name="android.permission.SEND_SMS" />
+14-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:9:5-10:71
+14-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:9:22-64
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:11:5-67
+15-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:11:22-64
+16    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+16-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:12:5-79
+16-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:12:22-76
+17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+17-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:13:5-79
+17-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:13:22-76
+18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+18-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:14:5-81
+18-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:14:22-78
+19    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+19-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:15:5-85
+19-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:15:22-82
+20    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+20-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:16:5-77
+20-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:16:22-74
+21    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+21-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:17:5-75
+21-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:17:22-72
+22    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+22-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:18:5-76
+22-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:18:22-73
+23    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+23-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:19:5-79
+23-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:19:22-76
+24    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+24-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:20:5-85
+24-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:20:22-82
+25    <uses-permission android:name="android.permission.CALL_PHONE" />
+25-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:21:5-69
+25-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:21:22-66
+26    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+26-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:22:5-94
+26-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:22:22-91
+27
+28    <uses-feature
+28-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+29        android:glEsVersion="0x00020000"
+29-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+30        android:required="true" />
+30-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+31
+32    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+32-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:26:5-110
+32-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:26:22-107
+33
+34    <application
+34-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:24:5-86:19
+35        android:name="androidx.multidex.MultiDexApplication"
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.3.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\293e31b83cc6ef5ad406d8c9a999e635\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+37        android:debuggable="true"
+38        android:icon="@drawable/ic_fall"
+38-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:25:9-41
+39        android:label="@string/app_name"
+39-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:26:9-41
+40        android:roundIcon="@drawable/ic_fall"
+40-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:27:9-46
+41        android:supportsRtl="true"
+41-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:28:9-35
+42        android:theme="@style/AppTheme" >
+42-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:30:9-40
+43        <activity
+43-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:32:9-37:63
+44            android:name="motionapps.besafebox.activities.options.SettingsActivity"
+44-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:36:13-84
+45            android:exported="true"
+45-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:34:13-36
+46            android:label="@string/title_activity_settings"
+46-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:37:13-60
+47            android:screenOrientation="portrait"
+47-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:35:13-49
+48            android:theme="@style/SettingsTheme" />
+48-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:33:13-49
+49        <activity
+49-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:39:9-44:55
+50            android:name="motionapps.besafebox.activities.About"
+50-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:43:13-65
+51            android:exported="true"
+51-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:42:13-36
+52            android:label="@string/about_besafebox"
+52-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:44:13-52
+53            android:screenOrientation="portrait"
+53-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:40:13-49
+54            android:theme="@style/ActionBarTheme" />
+54-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:41:13-50
+55
+56        <meta-data
+56-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:46:9-48:37
+57            android:name="google_analytics_adid_collection_enabled"
+57-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:47:13-68
+58            android:value="false" />
+58-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:48:13-34
+59
+60        <activity
+60-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:50:9-54:52
+61            android:name="motionapps.besafebox.activities.Alarm"
+61-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:51:13-65
+62            android:exported="true"
+62-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:53:13-36
+63            android:launchMode="singleTop"
+63-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:52:13-43
+64            android:screenOrientation="portrait" />
+64-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:54:13-49
+65        <activity
+65-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:55:9-66:20
+66            android:name="motionapps.besafebox.activities.main.Main"
+66-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:56:13-69
+67            android:configChanges="orientation"
+67-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:57:13-48
+68            android:exported="true"
+68-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:59:13-36
+69            android:launchMode="singleTop"
+69-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:58:13-43
+70            android:screenOrientation="portrait"
+70-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:61:13-49
+71            android:theme="@style/AppTheme" >
+71-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:60:13-44
+72            <intent-filter>
+72-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:62:13-65:29
+73                <action android:name="android.intent.action.MAIN" />
+73-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:63:17-69
+73-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:63:25-66
+74
+75                <category android:name="android.intent.category.LAUNCHER" />
+75-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:64:17-77
+75-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:64:27-74
+76            </intent-filter>
+77        </activity>
+78
+79        <service
+79-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:68:9-72:44
+80            android:name="motionapps.besafebox.services.DetectionService"
+80-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:69:13-74
+81            android:enabled="true"
+81-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:70:13-35
+82            android:exported="false"
+82-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:71:13-37
+83            android:stopWithTask="false" />
+83-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:72:13-41
+84        <service
+84-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:74:9-78:44
+85            android:name="motionapps.besafebox.services.Sampler"
+85-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:75:13-45
+86            android:enabled="true"
+86-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:76:13-35
+87            android:exported="false"
+87-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:77:13-37
+88            android:stopWithTask="false" />
+88-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:78:13-41
+89
+90        <activity
+90-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:80:9-85:47
+91            android:name="motionapps.besafebox.activities.introduction.Introduction"
+91-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:81:13-85
+92            android:exported="true"
+92-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:83:13-36
+93            android:label="@string/welcome"
+93-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:82:13-44
+94            android:screenOrientation="portrait"
+94-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:84:13-49
+95            android:theme="@style/AppTheme" />
+95-->C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:85:13-44
+96        <activity
+96-->[com.karumi:dexter:6.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\aa772724404138a4b48697a92e053d53\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:27:9-29:72
+97            android:name="com.karumi.dexter.DexterActivity"
+97-->[com.karumi:dexter:6.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\aa772724404138a4b48697a92e053d53\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:28:13-60
+98            android:theme="@style/Dexter.Internal.Theme.Transparent" /> <!-- Needs to be explicitly declared on P+ -->
+98-->[com.karumi:dexter:6.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\aa772724404138a4b48697a92e053d53\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:29:13-69
+99        <uses-library
+99-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+100            android:name="org.apache.http.legacy"
+100-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+101            android:required="false" />
+101-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+102
+103        <meta-data
+103-->[com.google.android.gms:play-services-fitness:20.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\b3f28802c0fc48718a0a2c026dfde094\transformed\jetified-play-services-fitness-20.0.0\AndroidManifest.xml:23:9-25:38
+104            android:name="com.google.gms.fitness.sdk.version"
+104-->[com.google.android.gms:play-services-fitness:20.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\b3f28802c0fc48718a0a2c026dfde094\transformed\jetified-play-services-fitness-20.0.0\AndroidManifest.xml:24:13-62
+105            android:value="20.0.0" />
+105-->[com.google.android.gms:play-services-fitness:20.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\b3f28802c0fc48718a0a2c026dfde094\transformed\jetified-play-services-fitness-20.0.0\AndroidManifest.xml:25:13-35
+106
+107        <activity
+107-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+108            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+108-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+109            android:excludeFromRecents="true"
+109-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+110            android:exported="false"
+110-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+111            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+111-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+112        <!--
+113            Service handling Google Sign-In user revocation. For apps that do not integrate with
+114            Google Sign-In, this service will never be started.
+115        -->
+116        <service
+116-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+117            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+117-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+118            android:exported="true"
+118-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+119            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+119-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+120            android:visibleToInstantApps="true" />
+120-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+121        <service
+121-->[com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:15:9-21:19
+122            android:name="com.google.firebase.components.ComponentDiscoveryService"
+122-->[com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:16:13-84
+123            android:directBootAware="true"
+123-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+124            android:exported="false" >
+124-->[com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:17:13-37
+125            <meta-data
+125-->[com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:18:13-20:85
+126                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+126-->[com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:19:17-115
+127                android:value="com.google.firebase.components.ComponentRegistrar" />
+127-->[com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:20:17-82
+128            <meta-data
+128-->[com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:30:13-32:85
+129                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+129-->[com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:31:17-139
+130                android:value="com.google.firebase.components.ComponentRegistrar" />
+130-->[com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:32:17-82
+131            <meta-data
+131-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:18:13-20:85
+132                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+132-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
+133                android:value="com.google.firebase.components.ComponentRegistrar" />
+133-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+134            <!--
+135                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+136                clients to use it as well, by defining this registrar in their own core/common library.
+137            -->
+138            <meta-data
+138-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+139                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+139-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+140                android:value="com.google.firebase.components.ComponentRegistrar" />
+140-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+141        </service>
+142        <service
+142-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+143            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+143-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+144            android:exported="false" >
+144-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+145            <meta-data
+145-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+146                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+146-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+147                android:value="cct" />
+147-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+148        </service>
+149
+150        <provider
+150-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+151            android:name="com.google.firebase.provider.FirebaseInitProvider"
+151-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+152            android:authorities="motionapps.besafebox.firebaseinitprovider"
+152-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+153            android:directBootAware="true"
+153-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+154            android:exported="false"
+154-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+155            android:initOrder="100" />
+155-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+156
+157        <activity
+157-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1fef6a1d10308664e120836a0f33d185\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+158            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+158-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1fef6a1d10308664e120836a0f33d185\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+159            android:exported="false"
+159-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1fef6a1d10308664e120836a0f33d185\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+160            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+160-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1fef6a1d10308664e120836a0f33d185\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+161
+162        <receiver
+162-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:29:9-33:20
+163            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+163-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:30:13-85
+164            android:enabled="true"
+164-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:31:13-35
+165            android:exported="false" >
+165-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:32:13-37
+166        </receiver>
+167
+168        <service
+168-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:35:9-38:40
+169            android:name="com.google.android.gms.measurement.AppMeasurementService"
+169-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:36:13-84
+170            android:enabled="true"
+170-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:37:13-35
+171            android:exported="false" />
+171-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:38:13-37
+172        <service
+172-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:39:9-43:72
+173            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+173-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:40:13-87
+174            android:enabled="true"
+174-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:41:13-35
+175            android:exported="false"
+175-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:42:13-37
+176            android:permission="android.permission.BIND_JOB_SERVICE" />
+176-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:43:13-69
+177
+178        <meta-data
+178-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\6973c5d744b013d147c8d7ffde4181de\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+179            android:name="com.google.android.gms.version"
+179-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\6973c5d744b013d147c8d7ffde4181de\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+180            android:value="@integer/google_play_services_version" />
+180-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\6973c5d744b013d147c8d7ffde4181de\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+181
+182        <service
+182-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+183            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+183-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+184            android:exported="false"
+184-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+185            android:permission="android.permission.BIND_JOB_SERVICE" >
+185-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+186        </service>
+187
+188        <receiver
+188-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+189            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+189-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
+190            android:exported="false" />
+190-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+191    </application>
+192
+193</manifest>

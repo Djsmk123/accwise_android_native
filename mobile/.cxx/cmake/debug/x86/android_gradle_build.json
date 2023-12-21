@@ -1,0 +1,100 @@
+{
+  "stringTable": {
+    "0": "C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android19 --sysroot=C:/Users/Smk_winner/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fno-limit-debug-info -fPIC",
+    "2": "--target=i686-none-linux-android19 --sysroot=C:/Users/Smk_winner/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -I../../../../src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\CMakeLists.txt",
+    "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\android-legacy.toolchain.cmake",
+    "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "app-glue-Debug-x86": {
+      "buildCommand": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\.cxx\\cmake\\debug\\x86\" app-glue",
+      "buildType": "debug",
+      "toolchain": "4045093408",
+      "abi": "x86",
+      "artifactName": "app-glue",
+      "files": [
+        {
+          "src": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\sources\\android\\native_app_glue\\android_native_app_glue.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\.cxx\\cmake\\debug\\x86\\libapp-glue.a"
+    },
+    "native-lib-Debug-x86": {
+      "buildCommand": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\.cxx\\cmake\\debug\\x86\" native-lib",
+      "buildType": "debug",
+      "toolchain": "4045093408",
+      "abi": "x86",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\NativeModel.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\calculations\\Calculations.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\calculations\\Classifier.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\datatypes\\SensorOutput.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\datatypes\\DataCarrier.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\calculations\\nn\\KerasSequentialModel.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\src\\main\\cpp\\calculations\\nn\\Parameters.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "4045093408": {
+      "cCompilerExecutable": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\Smk_winner\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

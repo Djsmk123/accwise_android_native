@@ -1,0 +1,4 @@
+C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/.cxx/cmake/release/x86/CMakeFiles/native-lib.dir
+C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/.cxx/cmake/release/x86/CMakeFiles/app-glue.dir
+C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
+C:/Users/Smk_winner/Desktop/BeSafeBox_Android_app/mobile/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir

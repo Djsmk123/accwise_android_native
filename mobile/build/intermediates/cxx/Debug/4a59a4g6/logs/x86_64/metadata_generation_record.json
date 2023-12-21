@@ -1,0 +1,114 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 19 min SDK version: x86_64",
+    "file_": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -319612986
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\.cxx\\Debug\\4a59a4g6\\x86_64\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 77470913
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1070495031
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\.cxx\\Debug\\4a59a4g6\\x86_64\u0027",
+    "file_": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -961691585
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\.cxx\\Debug\\4a59a4g6\\x86_64\u0027",
+    "file_": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1848506699
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\Smk_winner\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\Smk_winner\\\\Desktop\\\\BeSafeBox_Android_app\\\\mobile\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d19\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-19\" ^\n  \"-DANDROID_ABI\u003dx86_64\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\Smk_winner\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\25.1.8937393\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Smk_winner\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\25.1.8937393\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Smk_winner\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\25.1.8937393\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Smk_winner\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Smk_winner\\\\Desktop\\\\BeSafeBox_Android_app\\\\mobile\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\4a59a4g6\\\\obj\\\\x86_64\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Smk_winner\\\\Desktop\\\\BeSafeBox_Android_app\\\\mobile\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\4a59a4g6\\\\obj\\\\x86_64\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\Smk_winner\\\\Desktop\\\\BeSafeBox_Android_app\\\\mobile\\\\.cxx\\\\Debug\\\\4a59a4g6\\\\x86_64\" ^\n  -GNinja\n",
+    "file_": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 395246009
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\Smk_winner\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\Smk_winner\\\\Desktop\\\\BeSafeBox_Android_app\\\\mobile\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d19\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-19\" ^\n  \"-DANDROID_ABI\u003dx86_64\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\Smk_winner\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\25.1.8937393\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Smk_winner\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\25.1.8937393\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Smk_winner\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\25.1.8937393\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Smk_winner\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Smk_winner\\\\Desktop\\\\BeSafeBox_Android_app\\\\mobile\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\4a59a4g6\\\\obj\\\\x86_64\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Smk_winner\\\\Desktop\\\\BeSafeBox_Android_app\\\\mobile\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\4a59a4g6\\\\obj\\\\x86_64\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\Smk_winner\\\\Desktop\\\\BeSafeBox_Android_app\\\\mobile\\\\.cxx\\\\Debug\\\\4a59a4g6\\\\x86_64\" ^\n  -GNinja\n",
+    "file_": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 114315128
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed with problem. Exception: org.gradle.process.internal.ExecException: A problem occurred starting process \u0027command \u0027C:\\Users\\Smk_winner\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\cmake.exe\u0027\u0027",
+    "file_": "C:\\Users\\Smk_winner\\Desktop\\BeSafeBox_Android_app\\mobile\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 147961511
+  }
+]

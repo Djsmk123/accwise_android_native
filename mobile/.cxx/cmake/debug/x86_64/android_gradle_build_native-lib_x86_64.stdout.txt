@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\.cxx\cmake\debug\x86_64'
+ninja: no work to do.

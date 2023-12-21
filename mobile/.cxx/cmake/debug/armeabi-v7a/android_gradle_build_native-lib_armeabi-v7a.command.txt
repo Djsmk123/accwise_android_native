@@ -1,0 +1,7 @@
+Executable : C:\Users\Smk_winner\AppData\Local\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\.cxx\cmake\debug\armeabi-v7a
+native-lib
+jvmArgs : 
+

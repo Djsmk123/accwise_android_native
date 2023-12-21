@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_baseline_gps.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_baseline_gps.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_fall_white.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_fall_white.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/layout_fragment_contact.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_emergency.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_emergency.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_person_outline.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_person_outline.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_sad_face.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_sad_face.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_battery_charging.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_battery_charging.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/anim_fade_in.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/anim/fade_in.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/layout_pref_screen.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/layout/pref_screen.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/raw_alarm_full.mp3.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/raw/alarm_full.mp3"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_sms.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_sms.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_no_location.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_no_location.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/xml_root_preferences.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/xml/root_preferences.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/layout_pref_preference.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/layout/pref_preference.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_warning_white.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_warning_white.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/raw_notices.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/raw/notices.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/layout_settings_activity.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/layout/settings_activity.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_android.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_android.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_accuracy.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_accuracy.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_science_icon.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_science_icon.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_warning.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/warning.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_fall.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_fall.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/raw_alarm_begin.mp3.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/raw/alarm_begin.mp3"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_main_stop_button.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/main_stop_button.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_rounded_gray.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/rounded_gray.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_web.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_web.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_cross.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_cross.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_main_wait_button.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/main_wait_button.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/layout_activity_custom_number.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/layout/activity_custom_number.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_warning_white.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/warning_white.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_ringing.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_ringing.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/layout_activity_alarm.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/layout/activity_alarm.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_happy_face.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_happy_face.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_cancel.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/cancel.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_view_divider.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/view_divider.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_mail_outline.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_mail_outline.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_main_start_button.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/main_start_button.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_phone.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/anim_fade_out.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/anim/fade_out.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_rounded_black.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/rounded_black.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_settings.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_moon.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_moon.xml"
+    },
+    {
+        "merged": "motionapps.besafebox.mobile-merged_res-37:/drawable_ic_github.xml.flat",
+        "source": "motionapps.besafebox.mobile-main-39:/drawable/ic_github.xml"
+    }
+]

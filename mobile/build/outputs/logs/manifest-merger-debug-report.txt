@@ -1,0 +1,774 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:2:1-88:12
+MERGED from [com.afollestad.material-dialogs:input:3.3.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7b753332788dcde142b00c4c243989b3\transformed\jetified-input-3.3.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.afollestad.material-dialogs:core:3.3.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\44b40b50928d8a1b8792f284818f6eb3\transformed\jetified-core-3.3.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\296a65c87129291132c083f4b7eab137\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.karumi:dexter:6.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\aa772724404138a4b48697a92e053d53\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\52abe29c3e957447caadd3fe3f4c351c\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.AppIntro:AppIntro:6.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\72cd5439398222b887556d8e82840914\transformed\jetified-AppIntro-6.1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0-beta01] C:\Users\Smk_winner\.gradle\caches\transforms-3\e83d323dfb117faccbea168c5f4e66ac\transformed\constraintlayout-2.1.0-beta01\AndroidManifest.xml:2:1-11:12
+MERGED from [com.gauravbhola.ripplepulsebackground:library:1.0.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\f5a294f8377adb0467beb61d3f39b598\transformed\jetified-library-1.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [de.psdev.licensesdialog:licensesdialog:2.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\455819191a43471ca77391c180ceccff\transformed\jetified-licensesdialog-2.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.ncorti:slidetoact:0.9.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\2d2e4f4598553d72f1edaac9654b75b7\transformed\jetified-slidetoact-0.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.hbb20:ccp:2.4.7] C:\Users\Smk_winner\.gradle\caches\transforms-3\2957478f5a712d8fb0b1fa58fec08b42\transformed\jetified-ccp-2.4.7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.GrenderG:Toasty:1.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\f34630a111c11bdde3c41fe8b4ac3163\transformed\jetified-Toasty-1.5.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.preference:preference-ktx:1.1.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\d0c33d99d6f967e6ccd598249c0af342\transformed\jetified-preference-ktx-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\31064da131d50f30488f396aa004416e\transformed\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\8caf74fe360757b74f5500c5abd0caec\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\40bf0ba52c0cc2ee92e0a7cbf9c651f0\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\ae8050ef1a371e22d75110e192b3f8ff\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\8f3f5293e521b32f2b8e28505c4f848e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Smk_winner\.gradle\caches\transforms-3\935210feb0c87ecb0704cb951b0227e2\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\60349b6380582968b62a1b7baa96e012\transformed\jetified-activity-ktx-1.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7dbe9c35911dff71f7ec03233cc3c249\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\46f8f7bcc33ff09038a653f0513a1c25\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:20.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\b3f28802c0fc48718a0a2c026dfde094\transformed\jetified-play-services-fitness-20.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\6a2700ad2dcc5f9a47b19118339d3ec4\transformed\jetified-firebase-analytics-18.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\5ca2c1c81327a66393a18d71762f174e\transformed\jetified-tensorflow-lite-support-0.1.0\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\ffea2f31d399a3048bfed75b327ba0a9\transformed\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikhaellopez:circularprogressbar:3.0.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\f9ade93786308a246dfa6e3b1c4344fe\transformed\jetified-circularprogressbar-3.0.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1c94245f1db63fa57d059f2841ddd34f\transformed\jetified-core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\871bd0045b1229b97bfb007aaa4530c6\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\38ccd58b0c29cdcd3cb6fe1b891db64e\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\2e4d3351a966099cb0870e34788d3fe5\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\c408cca6556908e3eddd67993c985493\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.medyo:android-about-page:1.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\6dd649e73430617d1f995866bf433cbd\transformed\jetified-android-about-page-1.3.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\17d8559ff11e6c70f394bc485a73f7a9\transformed\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:15:1-49:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\ee647d28aa42faf95d77680d8441cdc5\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\73feb63ca4773563b0913d7e782cfdda\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\5c166735023511e5751ab6656ed9a908\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\d639f84304aa6c7b8df6b6af71abe610\transformed\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1aad085cdcfc6081497df4c34388f75f\transformed\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1fef6a1d10308664e120836a0f33d185\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\d965e1a44f60789a707dfd95b1cfb87c\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\ca54a6f26b19ad9ac164f64773a7c725\transformed\jetified-play-services-measurement-sdk-18.0.2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\5b6dfdf9d84144e71394b153b14d18f1\transformed\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\a930e3754444883abd27885bd65b7031\transformed\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\68f318e5521eebc187983ab56a869e3c\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\231f2fc8d4c734a88b330a185de0a885\transformed\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\69f81016d34116fbdf8ebf521e24d2cc\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\239ec0ce257f9de810fcdc32f33678fc\transformed\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\bb4eb89a62dcb8381cc3f95b014ea6dd\transformed\jetified-play-services-measurement-base-18.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\cb90fa64fe0cf0b53f35380476e7817e\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\6973c5d744b013d147c8d7ffde4181de\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Smk_winner\.gradle\caches\transforms-3\55a0100ba75bf5b67a17454dc3493a63\transformed\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\1528f3c4ef4bf942317b8997772d9f4f\transformed\jetified-activity-1.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\3c7cb9904d6f3a676600b1538cd5d821\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\b589b51099f26e6596e41d15cc25cdb2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\d2f52d7e67b6f075d2ebab4230d72b6c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\d46e4d689ec19748610ac91e5ab088be\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7df7d8c8495cc69bb8f456935838eed2\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\dab711bf93547587bd14a04a6b8255d8\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\bcaae2cd057c0d7166344162da3abbcc\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\043c1d3887b4d220a1256d0117ca34d9\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\8eb87d7f882c63ace095c7ab5a546ebd\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\85542f05e124a1caf5601fa86317314d\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a3789e154887cf284192879c4c1f1a0a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7c20f3478c747933a26b46834487f121\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\293e31b83cc6ef5ad406d8c9a999e635\transformed\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\43de30090801310b53c33cb6f2508d7e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7b6605a23a66344306ced94fb0467ca1\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\324a39035ee98a99cc8edae34a275b8a\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\1885ed6ae07154e969c6f0854ff4605c\transformed\jetified-transport-api-2.2.1\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\90438989f5d7535597bcd0971b7054ff\transformed\jetified-firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\c6929e3bb6a9d5f8caa3da1aae146663\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\0c5a5af49e76c53be500a1e77367e423\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\d6b6e734c9733c43cbd1a8d6219ded3e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\227525f71549a90b484d88cc6e647622\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\f245fdb6c0aa3cf5038353955fc2e7d9\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\0ac3120ef2d0118e0ed0ee2d974189e0\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\61c416f9ce61553620f1cbca210587b3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\0535279a08d7698de072e47b120dcb1d\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\79940238ac8332a691809f71e634b3d9\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1a81afe6c2f9bcb9dc70af78a2b9ae17\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\5568719410285e177ee1e2c525e2b376\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\fdf4654af8480120791c0e43dd0c131d\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\301bfd98cb718b87e1288210e5243537\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.michaelrocks:libphonenumber-android:8.12.17] C:\Users\Smk_winner\.gradle\caches\transforms-3\4c2517b2abe74bfc52b6160f32830683\transformed\jetified-libphonenumber-android-8.12.17\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:2:1-88:12
+	package
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:2:1-88:12
+		INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:2:1-88:12
+		INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:7:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\231f2fc8d4c734a88b330a185de0a885\transformed\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\231f2fc8d4c734a88b330a185de0a885\transformed\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\239ec0ce257f9de810fcdc32f33678fc\transformed\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\239ec0ce257f9de810fcdc32f33678fc\transformed\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:8:5-95
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:8:22-92
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:9:5-10:71
+	tools:ignore
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:10:9-68
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\231f2fc8d4c734a88b330a185de0a885\transformed\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\231f2fc8d4c734a88b330a185de0a885\transformed\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\239ec0ce257f9de810fcdc32f33678fc\transformed\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\239ec0ce257f9de810fcdc32f33678fc\transformed\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACTIVITY_RECOGNITION
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:15:5-85
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:15:22-82
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:16:5-77
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:16:22-74
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\231f2fc8d4c734a88b330a185de0a885\transformed\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\231f2fc8d4c734a88b330a185de0a885\transformed\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\239ec0ce257f9de810fcdc32f33678fc\transformed\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\239ec0ce257f9de810fcdc32f33678fc\transformed\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:20:5-85
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:20:22-82
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:21:5-69
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:21:22-66
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:22:5-94
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:22:22-91
+application
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:24:5-86:19
+MERGED from [com.afollestad.material-dialogs:input:3.3.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7b753332788dcde142b00c4c243989b3\transformed\jetified-input-3.3.0\AndroidManifest.xml:11:5-47
+MERGED from [com.afollestad.material-dialogs:input:3.3.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7b753332788dcde142b00c4c243989b3\transformed\jetified-input-3.3.0\AndroidManifest.xml:11:5-47
+MERGED from [com.afollestad.material-dialogs:core:3.3.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\44b40b50928d8a1b8792f284818f6eb3\transformed\jetified-core-3.3.0\AndroidManifest.xml:11:5-47
+MERGED from [com.afollestad.material-dialogs:core:3.3.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\44b40b50928d8a1b8792f284818f6eb3\transformed\jetified-core-3.3.0\AndroidManifest.xml:11:5-47
+MERGED from [com.karumi:dexter:6.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\aa772724404138a4b48697a92e053d53\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:6.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\aa772724404138a4b48697a92e053d53\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\52abe29c3e957447caadd3fe3f4c351c\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\52abe29c3e957447caadd3fe3f4c351c\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.AppIntro:AppIntro:6.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\72cd5439398222b887556d8e82840914\transformed\jetified-AppIntro-6.1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.AppIntro:AppIntro:6.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\72cd5439398222b887556d8e82840914\transformed\jetified-AppIntro-6.1.0\AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0-beta01] C:\Users\Smk_winner\.gradle\caches\transforms-3\e83d323dfb117faccbea168c5f4e66ac\transformed\constraintlayout-2.1.0-beta01\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0-beta01] C:\Users\Smk_winner\.gradle\caches\transforms-3\e83d323dfb117faccbea168c5f4e66ac\transformed\constraintlayout-2.1.0-beta01\AndroidManifest.xml:9:5-20
+MERGED from [de.psdev.licensesdialog:licensesdialog:2.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\455819191a43471ca77391c180ceccff\transformed\jetified-licensesdialog-2.1.0\AndroidManifest.xml:26:5-20
+MERGED from [de.psdev.licensesdialog:licensesdialog:2.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\455819191a43471ca77391c180ceccff\transformed\jetified-licensesdialog-2.1.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\46f8f7bcc33ff09038a653f0513a1c25\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\46f8f7bcc33ff09038a653f0513a1c25\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:20.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\b3f28802c0fc48718a0a2c026dfde094\transformed\jetified-play-services-fitness-20.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-fitness:20.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\b3f28802c0fc48718a0a2c026dfde094\transformed\jetified-play-services-fitness-20.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\6a2700ad2dcc5f9a47b19118339d3ec4\transformed\jetified-firebase-analytics-18.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\6a2700ad2dcc5f9a47b19118339d3ec4\transformed\jetified-firebase-analytics-18.0.2\AndroidManifest.xml:7:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\ffea2f31d399a3048bfed75b327ba0a9\transformed\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\ffea2f31d399a3048bfed75b327ba0a9\transformed\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1fef6a1d10308664e120836a0f33d185\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1fef6a1d10308664e120836a0f33d185\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\d965e1a44f60789a707dfd95b1cfb87c\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\d965e1a44f60789a707dfd95b1cfb87c\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\ca54a6f26b19ad9ac164f64773a7c725\transformed\jetified-play-services-measurement-sdk-18.0.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\ca54a6f26b19ad9ac164f64773a7c725\transformed\jetified-play-services-measurement-sdk-18.0.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\5b6dfdf9d84144e71394b153b14d18f1\transformed\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\5b6dfdf9d84144e71394b153b14d18f1\transformed\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\68f318e5521eebc187983ab56a869e3c\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\68f318e5521eebc187983ab56a869e3c\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\231f2fc8d4c734a88b330a185de0a885\transformed\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\231f2fc8d4c734a88b330a185de0a885\transformed\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\69f81016d34116fbdf8ebf521e24d2cc\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\69f81016d34116fbdf8ebf521e24d2cc\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\bb4eb89a62dcb8381cc3f95b014ea6dd\transformed\jetified-play-services-measurement-base-18.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\bb4eb89a62dcb8381cc3f95b014ea6dd\transformed\jetified-play-services-measurement-base-18.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\cb90fa64fe0cf0b53f35380476e7817e\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\cb90fa64fe0cf0b53f35380476e7817e\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\6973c5d744b013d147c8d7ffde4181de\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\6973c5d744b013d147c8d7ffde4181de\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\293e31b83cc6ef5ad406d8c9a999e635\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\293e31b83cc6ef5ad406d8c9a999e635\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7b6605a23a66344306ced94fb0467ca1\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7b6605a23a66344306ced94fb0467ca1\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\293e31b83cc6ef5ad406d8c9a999e635\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:26:9-41
+	tools:ignore
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:31:9-48
+	android:roundIcon
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:27:9-46
+	android:icon
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:25:9-41
+	android:theme
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:30:9-40
+activity#motionapps.besafebox.activities.options.SettingsActivity
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:32:9-37:63
+	android:screenOrientation
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:37:13-60
+	android:exported
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:34:13-36
+	android:theme
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:36:13-84
+activity#motionapps.besafebox.activities.About
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:39:9-44:55
+	android:screenOrientation
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:44:13-52
+	android:exported
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:42:13-36
+	android:theme
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:41:13-50
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:43:13-65
+meta-data#google_analytics_adid_collection_enabled
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:46:9-48:37
+	android:value
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:48:13-34
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:47:13-68
+activity#motionapps.besafebox.activities.Alarm
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:50:9-54:52
+	android:screenOrientation
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:54:13-49
+	android:launchMode
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:52:13-43
+	android:exported
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:51:13-65
+activity#motionapps.besafebox.activities.main.Main
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:55:9-66:20
+	android:screenOrientation
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:61:13-49
+	android:launchMode
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:58:13-43
+	android:exported
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:59:13-36
+	android:configChanges
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:57:13-48
+	android:theme
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:60:13-44
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:56:13-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:62:13-65:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:64:17-77
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:64:27-74
+service#motionapps.besafebox.services.DetectionService
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:68:9-72:44
+	android:enabled
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:70:13-35
+	android:exported
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:71:13-37
+	android:stopWithTask
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:72:13-41
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:69:13-74
+service#motionapps.besafebox.services.Sampler
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:74:9-78:44
+	android:enabled
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:76:13-35
+	android:exported
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:77:13-37
+	android:stopWithTask
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:78:13-41
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:75:13-45
+activity#motionapps.besafebox.activities.introduction.Introduction
+ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:80:9-85:47
+	android:screenOrientation
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:82:13-44
+	android:exported
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:83:13-36
+	android:theme
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:85:13-44
+	android:name
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml:81:13-85
+uses-sdk
+INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+MERGED from [com.afollestad.material-dialogs:input:3.3.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7b753332788dcde142b00c4c243989b3\transformed\jetified-input-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:input:3.3.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7b753332788dcde142b00c4c243989b3\transformed\jetified-input-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:core:3.3.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\44b40b50928d8a1b8792f284818f6eb3\transformed\jetified-core-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:core:3.3.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\44b40b50928d8a1b8792f284818f6eb3\transformed\jetified-core-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\296a65c87129291132c083f4b7eab137\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\296a65c87129291132c083f4b7eab137\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.karumi:dexter:6.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\aa772724404138a4b48697a92e053d53\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:6.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\aa772724404138a4b48697a92e053d53\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\52abe29c3e957447caadd3fe3f4c351c\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\52abe29c3e957447caadd3fe3f4c351c\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.AppIntro:AppIntro:6.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\72cd5439398222b887556d8e82840914\transformed\jetified-AppIntro-6.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AppIntro:AppIntro:6.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\72cd5439398222b887556d8e82840914\transformed\jetified-AppIntro-6.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0-beta01] C:\Users\Smk_winner\.gradle\caches\transforms-3\e83d323dfb117faccbea168c5f4e66ac\transformed\constraintlayout-2.1.0-beta01\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0-beta01] C:\Users\Smk_winner\.gradle\caches\transforms-3\e83d323dfb117faccbea168c5f4e66ac\transformed\constraintlayout-2.1.0-beta01\AndroidManifest.xml:5:5-7:41
+MERGED from [com.gauravbhola.ripplepulsebackground:library:1.0.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\f5a294f8377adb0467beb61d3f39b598\transformed\jetified-library-1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.gauravbhola.ripplepulsebackground:library:1.0.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\f5a294f8377adb0467beb61d3f39b598\transformed\jetified-library-1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [de.psdev.licensesdialog:licensesdialog:2.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\455819191a43471ca77391c180ceccff\transformed\jetified-licensesdialog-2.1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [de.psdev.licensesdialog:licensesdialog:2.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\455819191a43471ca77391c180ceccff\transformed\jetified-licensesdialog-2.1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.ncorti:slidetoact:0.9.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\2d2e4f4598553d72f1edaac9654b75b7\transformed\jetified-slidetoact-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ncorti:slidetoact:0.9.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\2d2e4f4598553d72f1edaac9654b75b7\transformed\jetified-slidetoact-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hbb20:ccp:2.4.7] C:\Users\Smk_winner\.gradle\caches\transforms-3\2957478f5a712d8fb0b1fa58fec08b42\transformed\jetified-ccp-2.4.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hbb20:ccp:2.4.7] C:\Users\Smk_winner\.gradle\caches\transforms-3\2957478f5a712d8fb0b1fa58fec08b42\transformed\jetified-ccp-2.4.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.GrenderG:Toasty:1.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\f34630a111c11bdde3c41fe8b4ac3163\transformed\jetified-Toasty-1.5.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.GrenderG:Toasty:1.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\f34630a111c11bdde3c41fe8b4ac3163\transformed\jetified-Toasty-1.5.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.preference:preference-ktx:1.1.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\d0c33d99d6f967e6ccd598249c0af342\transformed\jetified-preference-ktx-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.1.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\d0c33d99d6f967e6ccd598249c0af342\transformed\jetified-preference-ktx-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\31064da131d50f30488f396aa004416e\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\31064da131d50f30488f396aa004416e\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\8caf74fe360757b74f5500c5abd0caec\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\8caf74fe360757b74f5500c5abd0caec\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\40bf0ba52c0cc2ee92e0a7cbf9c651f0\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\40bf0ba52c0cc2ee92e0a7cbf9c651f0\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\ae8050ef1a371e22d75110e192b3f8ff\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\ae8050ef1a371e22d75110e192b3f8ff\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\8f3f5293e521b32f2b8e28505c4f848e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\8f3f5293e521b32f2b8e28505c4f848e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Smk_winner\.gradle\caches\transforms-3\935210feb0c87ecb0704cb951b0227e2\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Smk_winner\.gradle\caches\transforms-3\935210feb0c87ecb0704cb951b0227e2\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\60349b6380582968b62a1b7baa96e012\transformed\jetified-activity-ktx-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\60349b6380582968b62a1b7baa96e012\transformed\jetified-activity-ktx-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7dbe9c35911dff71f7ec03233cc3c249\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7dbe9c35911dff71f7ec03233cc3c249\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\46f8f7bcc33ff09038a653f0513a1c25\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\46f8f7bcc33ff09038a653f0513a1c25\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:20.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\b3f28802c0fc48718a0a2c026dfde094\transformed\jetified-play-services-fitness-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:20.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\b3f28802c0fc48718a0a2c026dfde094\transformed\jetified-play-services-fitness-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\6a2700ad2dcc5f9a47b19118339d3ec4\transformed\jetified-firebase-analytics-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\6a2700ad2dcc5f9a47b19118339d3ec4\transformed\jetified-firebase-analytics-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\5ca2c1c81327a66393a18d71762f174e\transformed\jetified-tensorflow-lite-support-0.1.0\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\5ca2c1c81327a66393a18d71762f174e\transformed\jetified-tensorflow-lite-support-0.1.0\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\ffea2f31d399a3048bfed75b327ba0a9\transformed\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\ffea2f31d399a3048bfed75b327ba0a9\transformed\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
+MERGED from [com.mikhaellopez:circularprogressbar:3.0.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\f9ade93786308a246dfa6e3b1c4344fe\transformed\jetified-circularprogressbar-3.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularprogressbar:3.0.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\f9ade93786308a246dfa6e3b1c4344fe\transformed\jetified-circularprogressbar-3.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1c94245f1db63fa57d059f2841ddd34f\transformed\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1c94245f1db63fa57d059f2841ddd34f\transformed\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\871bd0045b1229b97bfb007aaa4530c6\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\871bd0045b1229b97bfb007aaa4530c6\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\38ccd58b0c29cdcd3cb6fe1b891db64e\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\38ccd58b0c29cdcd3cb6fe1b891db64e\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\2e4d3351a966099cb0870e34788d3fe5\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\2e4d3351a966099cb0870e34788d3fe5\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\c408cca6556908e3eddd67993c985493\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\c408cca6556908e3eddd67993c985493\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.medyo:android-about-page:1.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\6dd649e73430617d1f995866bf433cbd\transformed\jetified-android-about-page-1.3.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.medyo:android-about-page:1.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\6dd649e73430617d1f995866bf433cbd\transformed\jetified-android-about-page-1.3.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\17d8559ff11e6c70f394bc485a73f7a9\transformed\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\17d8559ff11e6c70f394bc485a73f7a9\transformed\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\ee647d28aa42faf95d77680d8441cdc5\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\ee647d28aa42faf95d77680d8441cdc5\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\73feb63ca4773563b0913d7e782cfdda\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\73feb63ca4773563b0913d7e782cfdda\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\5c166735023511e5751ab6656ed9a908\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\5c166735023511e5751ab6656ed9a908\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\d639f84304aa6c7b8df6b6af71abe610\transformed\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\d639f84304aa6c7b8df6b6af71abe610\transformed\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1aad085cdcfc6081497df4c34388f75f\transformed\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1aad085cdcfc6081497df4c34388f75f\transformed\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1fef6a1d10308664e120836a0f33d185\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1fef6a1d10308664e120836a0f33d185\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\d965e1a44f60789a707dfd95b1cfb87c\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\d965e1a44f60789a707dfd95b1cfb87c\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\ca54a6f26b19ad9ac164f64773a7c725\transformed\jetified-play-services-measurement-sdk-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\ca54a6f26b19ad9ac164f64773a7c725\transformed\jetified-play-services-measurement-sdk-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\5b6dfdf9d84144e71394b153b14d18f1\transformed\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\5b6dfdf9d84144e71394b153b14d18f1\transformed\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\a930e3754444883abd27885bd65b7031\transformed\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\a930e3754444883abd27885bd65b7031\transformed\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\68f318e5521eebc187983ab56a869e3c\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\68f318e5521eebc187983ab56a869e3c\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\231f2fc8d4c734a88b330a185de0a885\transformed\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\231f2fc8d4c734a88b330a185de0a885\transformed\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\69f81016d34116fbdf8ebf521e24d2cc\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\69f81016d34116fbdf8ebf521e24d2cc\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\239ec0ce257f9de810fcdc32f33678fc\transformed\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\239ec0ce257f9de810fcdc32f33678fc\transformed\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\bb4eb89a62dcb8381cc3f95b014ea6dd\transformed\jetified-play-services-measurement-base-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\bb4eb89a62dcb8381cc3f95b014ea6dd\transformed\jetified-play-services-measurement-base-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\cb90fa64fe0cf0b53f35380476e7817e\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\cb90fa64fe0cf0b53f35380476e7817e\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\6973c5d744b013d147c8d7ffde4181de\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\6973c5d744b013d147c8d7ffde4181de\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Smk_winner\.gradle\caches\transforms-3\55a0100ba75bf5b67a17454dc3493a63\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Smk_winner\.gradle\caches\transforms-3\55a0100ba75bf5b67a17454dc3493a63\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\1528f3c4ef4bf942317b8997772d9f4f\transformed\jetified-activity-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\1528f3c4ef4bf942317b8997772d9f4f\transformed\jetified-activity-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\3c7cb9904d6f3a676600b1538cd5d821\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\3c7cb9904d6f3a676600b1538cd5d821\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\b589b51099f26e6596e41d15cc25cdb2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\b589b51099f26e6596e41d15cc25cdb2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\d2f52d7e67b6f075d2ebab4230d72b6c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\d2f52d7e67b6f075d2ebab4230d72b6c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\d46e4d689ec19748610ac91e5ab088be\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\d46e4d689ec19748610ac91e5ab088be\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7df7d8c8495cc69bb8f456935838eed2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7df7d8c8495cc69bb8f456935838eed2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\dab711bf93547587bd14a04a6b8255d8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\dab711bf93547587bd14a04a6b8255d8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\bcaae2cd057c0d7166344162da3abbcc\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\bcaae2cd057c0d7166344162da3abbcc\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\043c1d3887b4d220a1256d0117ca34d9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\043c1d3887b4d220a1256d0117ca34d9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\8eb87d7f882c63ace095c7ab5a546ebd\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\8eb87d7f882c63ace095c7ab5a546ebd\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\85542f05e124a1caf5601fa86317314d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\85542f05e124a1caf5601fa86317314d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a3789e154887cf284192879c4c1f1a0a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a3789e154887cf284192879c4c1f1a0a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7c20f3478c747933a26b46834487f121\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7c20f3478c747933a26b46834487f121\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\293e31b83cc6ef5ad406d8c9a999e635\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\293e31b83cc6ef5ad406d8c9a999e635\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\43de30090801310b53c33cb6f2508d7e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\43de30090801310b53c33cb6f2508d7e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7b6605a23a66344306ced94fb0467ca1\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\7b6605a23a66344306ced94fb0467ca1\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\324a39035ee98a99cc8edae34a275b8a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\324a39035ee98a99cc8edae34a275b8a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\1885ed6ae07154e969c6f0854ff4605c\transformed\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\1885ed6ae07154e969c6f0854ff4605c\transformed\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\90438989f5d7535597bcd0971b7054ff\transformed\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\90438989f5d7535597bcd0971b7054ff\transformed\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\c6929e3bb6a9d5f8caa3da1aae146663\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\c6929e3bb6a9d5f8caa3da1aae146663\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\0c5a5af49e76c53be500a1e77367e423\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\0c5a5af49e76c53be500a1e77367e423\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\d6b6e734c9733c43cbd1a8d6219ded3e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\d6b6e734c9733c43cbd1a8d6219ded3e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\227525f71549a90b484d88cc6e647622\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\227525f71549a90b484d88cc6e647622\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\f245fdb6c0aa3cf5038353955fc2e7d9\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\f245fdb6c0aa3cf5038353955fc2e7d9\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\0ac3120ef2d0118e0ed0ee2d974189e0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\0ac3120ef2d0118e0ed0ee2d974189e0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\61c416f9ce61553620f1cbca210587b3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\61c416f9ce61553620f1cbca210587b3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\0535279a08d7698de072e47b120dcb1d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\0535279a08d7698de072e47b120dcb1d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\79940238ac8332a691809f71e634b3d9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\79940238ac8332a691809f71e634b3d9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1a81afe6c2f9bcb9dc70af78a2b9ae17\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1a81afe6c2f9bcb9dc70af78a2b9ae17\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\5568719410285e177ee1e2c525e2b376\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\5568719410285e177ee1e2c525e2b376\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\fdf4654af8480120791c0e43dd0c131d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\fdf4654af8480120791c0e43dd0c131d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\301bfd98cb718b87e1288210e5243537\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\301bfd98cb718b87e1288210e5243537\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.12.17] C:\Users\Smk_winner\.gradle\caches\transforms-3\4c2517b2abe74bfc52b6160f32830683\transformed\jetified-libphonenumber-android-8.12.17\AndroidManifest.xml:7:5-9:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.12.17] C:\Users\Smk_winner\.gradle\caches\transforms-3\4c2517b2abe74bfc52b6160f32830683\transformed\jetified-libphonenumber-android-8.12.17\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+		MERGED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:6.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\aa772724404138a4b48697a92e053d53\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:6.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\aa772724404138a4b48697a92e053d53\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:6.2.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\aa772724404138a4b48697a92e053d53\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:28:13-60
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\81cfa7c8fbe9b8b8d532f35aecc8fe98\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+meta-data#com.google.gms.fitness.sdk.version
+ADDED from [com.google.android.gms:play-services-fitness:20.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\b3f28802c0fc48718a0a2c026dfde094\transformed\jetified-play-services-fitness-20.0.0\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.google.android.gms:play-services-fitness:20.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\b3f28802c0fc48718a0a2c026dfde094\transformed\jetified-play-services-fitness-20.0.0\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-fitness:20.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\b3f28802c0fc48718a0a2c026dfde094\transformed\jetified-play-services-fitness-20.0.0\AndroidManifest.xml:24:13-62
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\4860982d5c0db1ebd2305aa7702fd759\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:17:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:16:13-84
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:17.4.1] C:\Users\Smk_winner\.gradle\caches\transforms-3\ed5a7a10917d6a67c2e5b6c69d2e4ab3\transformed\jetified-firebase-crashlytics-17.4.1\AndroidManifest.xml:19:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Smk_winner\.gradle\caches\transforms-3\88f78363f3b88526f696786a7ed7e73f\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\e0dc07bd42690b33adcc16e0b4d84691\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Smk_winner\.gradle\caches\transforms-3\43c6126e8756aad924520c60e0d5f86f\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\a8a677d889c333e8db91304c5eaac5e3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1fef6a1d10308664e120836a0f33d185\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1fef6a1d10308664e120836a0f33d185\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1fef6a1d10308664e120836a0f33d185\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\1fef6a1d10308664e120836a0f33d185\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\231f2fc8d4c734a88b330a185de0a885\transformed\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\231f2fc8d4c734a88b330a185de0a885\transformed\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Smk_winner\.gradle\caches\transforms-3\23ef781ae8dc4609bb6d1d440017ab97\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\6973c5d744b013d147c8d7ffde4181de\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\6973c5d744b013d147c8d7ffde4181de\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Smk_winner\.gradle\caches\transforms-3\6973c5d744b013d147c8d7ffde4181de\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Smk_winner\.gradle\caches\transforms-3\e65bfb004566c14446ef43860d268e13\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:33:13-132

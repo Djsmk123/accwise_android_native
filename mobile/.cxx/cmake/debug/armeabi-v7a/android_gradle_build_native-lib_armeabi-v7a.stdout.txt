@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Smk_winner\Desktop\BeSafeBox_Android_app\mobile\.cxx\cmake\debug\armeabi-v7a'
+ninja: no work to do.
